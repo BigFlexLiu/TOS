@@ -1,0 +1,1 @@
+MoodScape does not collect, or store any user data, including search queries or descriptions provided.

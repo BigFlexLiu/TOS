@@ -7,7 +7,7 @@ Welcome to MoodScape, a plugin that fetches relevant images based on user descri
 MoodScape provides a service that fetches images from Pexels (https://www.pexels.com/) based on user-provided descriptions. The plugin does not modify or process images beyond fetching them based on the given description.
 
 3. User Data
-MoodScape does not collect, store, or save any user data, including search queries or descriptions provided.
+MoodScape does not collect, or store any user data, including search queries or descriptions provided.
 
 4. Image Sources
 All images provided by MoodScape are sourced from Pexels (https://www.pexels.com/). Users must adhere to the licensing terms provided by Pexels, which can be reviewed at https://www.pexels.com/license/.
